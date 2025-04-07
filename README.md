@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @CoDex476
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning front end technologies..
-- 💞️ I’m looking to collaborate on front end development projects
 - 📫 reach me via email..
 
 <!---
