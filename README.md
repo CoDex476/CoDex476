@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @CoDex476
-- 📫 reach me via email..
+## 👋 Hi, I'm Abed
+I'm a beginner Python and Django developer passionate about building web apps.
 
-<!---
-CoDex476/CoDex476 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Technologies
+- Python
+- Django
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+
+### 📫 Contact Me
+- Email: abednegodunyah@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abednego-dunyah-02224429b
