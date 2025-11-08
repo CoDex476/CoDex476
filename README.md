@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Abed
-I'm a beginner Python and Django developer passionate about building web apps.
+I'm a Python/C# (Django/.Net) developer passionate about building web apps.
 
 ### 🛠️ Technologies
-- Python
-- Django
+- Python / C#
+- Django / .Net
 - HTML, CSS, JavaScript
 - Git & GitHub
 
